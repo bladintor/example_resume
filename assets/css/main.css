@@ -1301,9 +1301,9 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 17rem;
-			height: 17rem;
-			line-height: 17rem;
+			width: 17em;
+			height: 17em;
+			line-height: 17em;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
