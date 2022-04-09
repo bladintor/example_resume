@@ -724,9 +724,9 @@ input, select, textarea {
 
 		#header img {
 			border-radius: 50%;
-			height: 11em;
-			width: 11em;
-			margin: 0.5em;
+			height: 90%;
+			width: 90%;
+			margin: 5%;
 		}
 
 /* List */
