@@ -724,8 +724,8 @@ input, select, textarea {
 
 		#header img {
 			border-radius: 50%;
-			height: 16em;
-			width: 16em;
+			height: 19em;
+			width: 19em;
 			margin: 0.5em;
 		}
 
@@ -1301,9 +1301,9 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 17em;
-			height: 17em;
-			line-height: 17em;
+			width: 20rem;
+			height: 20rem;
+			line-height: 20rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
